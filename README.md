@@ -1,6 +1,6 @@
 ## PONG!
 
-![Main Menu Image](Project1/README_IMAGES/MAIN_MENU.png)
+![Main Menu Image](Game/README_IMAGES/MAIN_MENU.png)
 
 ### Description
 
@@ -20,13 +20,15 @@ Keyboard:
 
 ### Screenshots
 
-![Gameplay Image](Project1/README_IMAGES/GAMEPLAY_ONE.png)
+![Gameplay Image](Game/README_IMAGES/GAMEPLAY_ONE.png)
 
 ### Developers
 
  - Matthew Clements - Sole Developer
 
 ### Links
+ - Website - https://www.matthew-clements.co.uk/ 
+ - itch.io - https://matthewclementsgames.itch.io/pong
 
 ### Extras
 This game uses the Raylib library which can be found here: https://www.raylib.com/index.html
