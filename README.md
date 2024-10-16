@@ -32,5 +32,3 @@ Keyboard:
 
 ### Extras
 This game uses the Raylib library which can be found here: https://www.raylib.com/index.html
-
-*Copyright (c) 2024 Matthew Clements Games*
